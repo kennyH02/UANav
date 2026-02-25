@@ -11,9 +11,10 @@ First-year experiences and online complaints about campus navigation inspired th
 to show a user's location, destination, and navigation to a clearly constructed path for the user's best experience.
 It will also serve as an extension and complement to the campus's existing navigational map services. 
 
-The user can search for buildings and specific rooms to reach their exact destination efficiently. Our application stores map data locally so users
+Our application will use Flutter for the frontend and Supabase to store and deliver the campus graph data. Routing data will be provided through QGIS as GeoJSON and JSON graph files. The user can search for buildings and specific rooms to reach their exact destination efficiently. Our application stores map data locally so users
 still have access to campus routes and locations as a fallback when no internet is available. Where Google and Apple Maps fail to meet these standards,
 our app would give students the optimal route to their next destination. Given the campus shortcuts that students actually use. Without utilizing a confusing 2D map rendering attached to a wall.
+
 
 The development team will handle updates to the maps and UI. As a result, users will provide real-time feedback on issues such as mapping inconsistencies and broken features.
 
