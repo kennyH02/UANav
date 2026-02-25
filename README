@@ -1,6 +1,9 @@
-Project Title: UANav
+# Project Title: UANav
 
-Name of group members: Matthew Gregg, Kenny Huang, Santino Viscariello, Tyler Robinson
+## Name of group members: 
+Matthew Gregg, Kenny Huang, Santino Viscariello, Tyler Robinson
+
+## Project inspiration
 
 Students and community members at the University at Albany’s uptown campus struggle with navigation, managing time, and finding rooms, buildings, and tunnel access. 
 First-year experiences and online complaints about campus navigation inspired this project. UANav will optimize campus routes by using multiple frameworks and APIs
