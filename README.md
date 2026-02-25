@@ -15,3 +15,6 @@ still have access to campus routes and locations as a fallback when no internet 
 our app would give students the optimal route to their next destination. Given the campus shortcuts that students actually use. Without utilizing a confusing 2D map rendering attached to a wall.
 
 The team of developers will handle the updates to maps and UI. As a result, users will provide real-time feedback on issues such as mapping inconsistencies and broken features.
+
+###Note to team from Kenny
+Once this README.md is set, I will be creating additional branches (dev & test) for version control, more on this later.
