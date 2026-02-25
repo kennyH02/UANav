@@ -16,5 +16,5 @@ our app would give students the optimal route to their next destination. Given t
 
 The team of developers will handle the updates to maps and UI. As a result, users will provide real-time feedback on issues such as mapping inconsistencies and broken features.
 
-###Note to team from Kenny
+### Note to team from Kenny
 Once this README.md is set, I will be creating additional branches (dev & test) for version control, more on this later.
