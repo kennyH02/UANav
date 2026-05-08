@@ -1,6 +1,6 @@
 name: uanav
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -9,6 +9,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_dotenv: ^6.0.1
+  flutter_map: ^8.1.1
+  flutter_map_tile_caching: ^10.1.1
+  geolocator: ^14.0.2
+  latlong2: ^0.9.1
+  shared_preferences: ^2.5.5
+  supabase_flutter: ^2.12.4
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +24,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - .env
+    - map_data/node.json
+    - map_data/edge.json
+    - map_data/place.json
