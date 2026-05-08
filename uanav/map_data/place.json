@@ -1,782 +1,1094 @@
 [
  {
   "name": "George Education Center",
-  "lat": 42.6263889,
-  "lon": -73.7402778
+  "latitude": 42.626389,
+  "longitude": -73.740278,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "Beverwyck Hall",
-  "lat": 42.685,
-  "lon": -73.8280556
+  "latitude": 42.685,
+  "longitude": -73.828056,
+  "type": "building",
+  "node id": "12639719945"
  },
  {
   "name": "Van Cortlandt Hall",
-  "lat": 42.685,
-  "lon": -73.8275
+  "latitude": 42.685,
+  "longitude": -73.8275,
+  "type": "building",
+  "node id": "11268340790"
  },
  {
   "name": "Schuyler Hall",
-  "lat": 42.6852778,
-  "lon": -73.8286111
+  "latitude": 42.685278,
+  "longitude": -73.828611,
+  "type": "building",
+  "node id": "1197793202"
  },
  {
   "name": "Van Rensselaer Hall",
-  "lat": 42.6855556,
-  "lon": -73.8286111
+  "latitude": 42.685556,
+  "longitude": -73.828611,
+  "type": "building",
+  "node id": "8223673577"
  },
  {
   "name": "Bleeker Hall",
-  "lat": 42.6852778,
-  "lon": -73.8272222
+  "latitude": 42.685278,
+  "longitude": -73.827222,
+  "type": "building",
+  "node id": "11240072822"
  },
  {
   "name": "Computer Science",
-  "lat": 42.6866139,
-  "lon": -73.8235544
+  "latitude": 42.686614,
+  "longitude": -73.823554,
+  "type": "building",
+  "node id": "4380086831"
  },
  {
   "name": "Lecture Center",
-  "lat": 42.6865765,
-  "lon": -73.8247211
+  "latitude": 42.686577,
+  "longitude": -73.824721,
+  "type": "building",
+  "node id": "4380086845"
  },
  {
   "name": "Philip Schuyler Hall",
-  "lat": 42.661432640969664,
-  "lon": -73.77300944139101
+  "latitude": 42.661433,
+  "longitude": -73.773009,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Boor Sculpture Studio",
-  "lat": 42.68135666024388,
-  "lon": -73.81869929651683
+  "latitude": 42.681357,
+  "longitude": -73.818699,
+  "type": "building",
+  "node id": "5981280490"
  },
  {
   "name": "University Main Library",
-  "lat": 42.686868450213645,
-  "lon": -73.82509401893743
+  "latitude": 42.686868,
+  "longitude": -73.825094,
+  "type": "building",
+  "node id": "4380086845"
  },
  {
   "name": "Morris Hall",
-  "lat": 42.68901364999999,
-  "lon": -73.8234365
+  "latitude": 42.689014,
+  "longitude": -73.823436,
+  "type": "building",
+  "node id": "3397165526"
  },
  {
   "name": "Bleecker Hall",
-  "lat": 42.68538964114258,
-  "lon": -73.82727103650231
+  "latitude": 42.68539,
+  "longitude": -73.827271,
+  "type": "building",
+  "node id": "11240072822"
  },
  {
   "name": "Onondaga Hall",
-  "lat": 42.68329014999999,
-  "lon": -73.82452829999998
+  "latitude": 42.68329,
+  "longitude": -73.824528,
+  "type": "building",
+  "node id": "11885713673"
  },
  {
   "name": "Delancy Hall",
-  "lat": 42.68933029303692,
-  "lon": -73.82478513583061
+  "latitude": 42.68933,
+  "longitude": -73.824785,
+  "type": "building",
+  "node id": "3397166615"
  },
  {
   "name": "Whitman Hall",
-  "lat": 42.68699305500988,
-  "lon": -73.81936778747824
+  "latitude": 42.686993,
+  "longitude": -73.819368,
+  "type": "building",
+  "node id": "12115563404"
  },
  {
   "name": "Anthony Hall",
-  "lat": 42.6866230643005,
-  "lon": -73.81927085634824
+  "latitude": 42.686623,
+  "longitude": -73.819271,
+  "type": "building",
+  "node id": "5872439285"
  },
  {
   "name": "University Administration Building",
-  "lat": 42.676512200000005,
-  "lon": -73.82160645000002
+  "latitude": 42.676512,
+  "longitude": -73.821606,
+  "type": "building",
+  "node id": "1933030816"
  },
  {
   "name": "Tappan Hall",
-  "lat": 42.68724819247784,
-  "lon": -73.81980805467659
+  "latitude": 42.687248,
+  "longitude": -73.819808,
+  "type": "building",
+  "node id": "12115563404"
  },
  {
   "name": "Ten Eyck Hall",
-  "lat": 42.686017449999994,
-  "lon": -73.82781990000001
+  "latitude": 42.686017,
+  "longitude": -73.82782,
+  "type": "building",
+  "node id": "1197793824"
  },
  {
   "name": "Bubble Gym",
-  "lat": 42.68210015414771,
-  "lon": -73.82688796624336
+  "latitude": 42.6821,
+  "longitude": -73.826888,
+  "type": "building",
+  "node id": "1197793355"
  },
  {
   "name": "Tuscarora Hall",
-  "lat": 42.68265791262072,
-  "lon": -73.82398183316627
+  "latitude": 42.682658,
+  "longitude": -73.823982,
+  "type": "building",
+  "node id": "1197793411"
  },
  {
   "name": "Service Building A",
-  "lat": 42.686785,
-  "lon": -73.8324172
+  "latitude": 42.686785,
+  "longitude": -73.832417,
+  "type": "building",
+  "node id": "8900509309"
  },
  {
   "name": "University Police Department",
-  "lat": 42.68045713457372,
-  "lon": -73.82039377249036
+  "latitude": 42.680457,
+  "longitude": -73.820394,
+  "type": "building",
+  "node id": "8900270346"
  },
  {
   "name": "Alumni House",
-  "lat": 42.687805171332656,
-  "lon": -73.83076683227007
+  "latitude": 42.687805,
+  "longitude": -73.830767,
+  "type": "building",
+  "node id": "1197793534"
  },
  {
   "name": "Johnson Hall",
-  "lat": 42.6887266,
-  "lon": -73.8237561
+  "latitude": 42.688727,
+  "longitude": -73.823756,
+  "type": "building",
+  "node id": "3397166622"
  },
  {
   "name": "Eastman Tower",
-  "lat": 42.68678663311634,
-  "lon": -73.82023695244263
+  "latitude": 42.686787,
+  "longitude": -73.820237,
+  "type": "building",
+  "node id": "1197793225"
  },
  {
   "name": "Zenger Hall",
-  "lat": 42.68966085399533,
-  "lon": -73.82398158633595
+  "latitude": 42.689661,
+  "longitude": -73.823982,
+  "type": "building",
+  "node id": "1197793344"
  },
  {
   "name": "Life Sciences Research Building",
-  "lat": 42.68453074460815,
-  "lon": -73.82116336539508
+  "latitude": 42.684531,
+  "longitude": -73.821163,
+  "type": "building",
+  "node id": "1197797278"
  },
  {
   "name": "Livingston Tower",
-  "lat": 42.688988900000005,
-  "lon": -73.8240325
+  "latitude": 42.688989,
+  "longitude": -73.824033,
+  "type": "building",
+  "node id": "1197793455"
  },
  {
   "name": "Clinton Hall",
-  "lat": 42.6896273,
-  "lon": -73.82446809999999
+  "latitude": 42.689627,
+  "longitude": -73.824468,
+  "type": "building",
+  "node id": "1197793344"
  },
  {
   "name": "Van Rensselaer Hall",
-  "lat": 42.68570648641192,
-  "lon": -73.82864119304546
+  "latitude": 42.685706,
+  "longitude": -73.828641,
+  "type": "building",
+  "node id": "8223673577"
  },
  {
   "name": "University at Albany Management Services Center",
-  "lat": 42.677101937233836,
-  "lon": -73.82185336578961
+  "latitude": 42.677102,
+  "longitude": -73.821853,
+  "type": "building",
+  "node id": "1933030830"
  },
  {
   "name": "Hamilton Hall",
-  "lat": 42.68895185000001,
-  "lon": -73.82469825
+  "latitude": 42.688952,
+  "longitude": -73.824698,
+  "type": "building",
+  "node id": "1197793455"
  },
  {
   "name": "Beverwyck Hall",
-  "lat": 42.68507580486717,
-  "lon": -73.82808183739958
+  "latitude": 42.685076,
+  "longitude": -73.828082,
+  "type": "building",
+  "node id": "1197793202"
  },
  {
   "name": "Physical Education",
-  "lat": 42.68258659834145,
-  "lon": -73.8277462157644
+  "latitude": 42.682587,
+  "longitude": -73.827746,
+  "type": "building",
+  "node id": "1197793308"
  },
  {
   "name": "Fine Arts & Art Museum",
-  "lat": 42.686312667843055,
-  "lon": -73.82285932101072
+  "latitude": 42.686313,
+  "longitude": -73.822859,
+  "type": "building",
+  "node id": "4380086858"
  },
  {
   "name": "nan",
-  "lat": 42.68119423187255,
-  "lon": -73.82273482515427
+  "latitude": 42.681194,
+  "longitude": -73.822735,
+  "type": "building",
+  "node id": "13053721544"
  },
  {
   "name": "Melville Hall",
-  "lat": 42.686927293065686,
-  "lon": -73.82065073557717
+  "latitude": 42.686927,
+  "longitude": -73.820651,
+  "type": "building",
+  "node id": "3397166609"
  },
  {
   "name": "Performing Arts Center",
-  "lat": 42.685541844343796,
-  "lon": -73.8228964031765
+  "latitude": 42.685542,
+  "longitude": -73.822896,
+  "type": "building",
+  "node id": "4380086858"
  },
  {
   "name": "Stuyvesant Tower",
-  "lat": 42.68552323198287,
-  "lon": -73.82770208613792
+  "latitude": 42.685523,
+  "longitude": -73.827702,
+  "type": "building",
+  "node id": "1197793824"
  },
  {
   "name": "Irving Hall",
-  "lat": 42.68656405,
-  "lon": -73.82055729999999
+  "latitude": 42.686564,
+  "longitude": -73.820557,
+  "type": "building",
+  "node id": "1197793225"
  },
  {
   "name": "Steinmetz Hall",
-  "lat": 42.687227693002534,
-  "lon": -73.82031598562783
+  "latitude": 42.687228,
+  "longitude": -73.820316,
+  "type": "building",
+  "node id": "5851925148"
  },
  {
   "name": "Herkimer Hall",
-  "lat": 42.6887082,
-  "lon": -73.82426964999999
+  "latitude": 42.688708,
+  "longitude": -73.82427,
+  "type": "building",
+  "node id": "1197793455"
  },
  {
   "name": "Mohawk Tower",
-  "lat": 42.68332288312502,
-  "lon": -73.82389360221426
+  "latitude": 42.683323,
+  "longitude": -73.823894,
+  "type": "building",
+  "node id": "1197793585"
  },
  {
   "name": "Grounds Building",
-  "lat": 42.68067851338038,
-  "lon": -73.82192333604135
+  "latitude": 42.680679,
+  "longitude": -73.821923,
+  "type": "building",
+  "node id": "8900270340"
  },
  {
   "name": "Ryckman Hall",
-  "lat": 42.685997300000004,
-  "lon": -73.82832955
+  "latitude": 42.685997,
+  "longitude": -73.82833,
+  "type": "building",
+  "node id": "1815483095"
  },
  {
   "name": "University Hall",
-  "lat": 42.68673130229616,
-  "lon": -73.8221674326827
+  "latitude": 42.686731,
+  "longitude": -73.822167,
+  "type": "building",
+  "node id": "3397331585"
  },
  {
   "name": "Dining Management Trailer",
-  "lat": 42.684429030789836,
-  "lon": -73.82333902275748
+  "latitude": 42.684429,
+  "longitude": -73.823339,
+  "type": "building",
+  "node id": "1197793645"
  },
  {
   "name": "Power Plant",
-  "lat": 42.68643328345848,
-  "lon": -73.83307325432274
+  "latitude": 42.686433,
+  "longitude": -73.833073,
+  "type": "building",
+  "node id": "1197793402"
  },
  {
   "name": "Cayuga Hall",
-  "lat": 42.682993591585834,
-  "lon": -73.82314118631783
+  "latitude": 42.682994,
+  "longitude": -73.823141,
+  "type": "building",
+  "node id": "1197793170"
  },
  {
   "name": "Broadview Center",
-  "lat": 42.682043425355836,
-  "lon": -73.82831754559277
+  "latitude": 42.682043,
+  "longitude": -73.828318,
+  "type": "building",
+  "node id": "1197793173"
  },
  {
   "name": "Fulton Hall",
-  "lat": 42.686292949999995,
-  "lon": -73.82009919999999
+  "latitude": 42.686293,
+  "longitude": -73.820099,
+  "type": "building",
+  "node id": "1197793225"
  },
  {
   "name": "Science Library",
-  "lat": 42.6846862982927,
-  "lon": -73.82549598190344
+  "latitude": 42.684686,
+  "longitude": -73.825496,
+  "type": "building",
+  "node id": "10596959509"
  },
  {
   "name": "Paine Hall",
-  "lat": 42.6894111459991,
-  "lon": -73.82355831365554
+  "latitude": 42.689411,
+  "longitude": -73.823558,
+  "type": "building",
+  "node id": "3397165526"
  },
  {
   "name": "Cooper Hall",
-  "lat": 42.6863185,
-  "lon": -73.81958505
+  "latitude": 42.686318,
+  "longitude": -73.819585,
+  "type": "building",
+  "node id": "5872437481"
  },
  {
   "name": "Oneida Hall",
-  "lat": 42.6835847,
-  "lon": -73.82421230000001
+  "latitude": 42.683585,
+  "longitude": -73.824212,
+  "type": "building",
+  "node id": "11885713673"
  },
  {
   "name": "Van Cortlandt Hall",
-  "lat": 42.685114500000005,
-  "lon": -73.82756119999999
+  "latitude": 42.685115,
+  "longitude": -73.827561,
+  "type": "building",
+  "node id": "11268340790"
  },
  {
   "name": "Adirondack Hall",
-  "lat": 42.68268100855326,
-  "lon": -73.8234741635733
+  "latitude": 42.682681,
+  "longitude": -73.823474,
+  "type": "building",
+  "node id": "10940099517"
  },
  {
   "name": "Information Technology",
-  "lat": 42.68594780801947,
-  "lon": -73.83365883833152
+  "latitude": 42.685948,
+  "longitude": -73.833659,
+  "type": "building",
+  "node id": "8900510533"
  },
  {
   "name": "Montauk Hall",
-  "lat": 42.68362339494709,
-  "lon": -73.82367996253247
+  "latitude": 42.683623,
+  "longitude": -73.82368,
+  "type": "building",
+  "node id": "1197793585"
  },
  {
   "name": "Schuyler Hall",
-  "lat": 42.68533123738511,
-  "lon": -73.82850766728828
+  "latitude": 42.685331,
+  "longitude": -73.828508,
+  "type": "building",
+  "node id": "1197793202"
  },
  {
   "name": "Service Building A",
-  "lat": 42.687071599999996,
-  "lon": -73.83291565
+  "latitude": 42.687072,
+  "longitude": -73.832916,
+  "type": "building",
+  "node id": "1197793402"
  },
  {
   "name": "Ten Broeck Hall",
-  "lat": 42.685760337513905,
-  "lon": -73.82736881757174
+  "latitude": 42.68576,
+  "longitude": -73.827369,
+  "type": "building",
+  "node id": "1197793824"
  },
  {
   "name": "Mahican Hall",
-  "lat": 42.6833525,
-  "lon": -73.82323165
+  "latitude": 42.683352,
+  "longitude": -73.823232,
+  "type": "building",
+  "node id": "1197793585"
  },
  {
   "name": "Seneca Hall",
-  "lat": 42.682921262638644,
-  "lon": -73.8244426332064
+  "latitude": 42.682921,
+  "longitude": -73.824443,
+  "type": "building",
+  "node id": "1197793411"
  },
  {
   "name": "Empire Commons Community Building",
-  "lat": 42.689896267427905,
-  "lon": -73.82788254795344
+  "latitude": 42.689896,
+  "longitude": -73.827883,
+  "type": "building",
+  "node id": "3397331568"
  },
  {
   "name": "Hudson",
-  "lat": 42.688891574154624,
-  "lon": -73.82867877269547
+  "latitude": 42.688892,
+  "longitude": -73.828679,
+  "type": "building",
+  "node id": "3397331496"
  },
  {
   "name": "Brubacher Hall",
-  "lat": 42.66439185710335,
-  "lon": -73.77978113598142
+  "latitude": 42.664392,
+  "longitude": -73.779781,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Husted Hall",
-  "lat": 42.660826426207066,
-  "lon": -73.77174229634474
+  "latitude": 42.660826,
+  "longitude": -73.771742,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Waterbury Hall",
-  "lat": 42.66376648953732,
-  "lon": -73.78125698039347
+  "latitude": 42.663766,
+  "longitude": -73.781257,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Richardson Hall",
-  "lat": 42.66120465264591,
-  "lon": -73.7717761737
+  "latitude": 42.661205,
+  "longitude": -73.771776,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Milne Hall",
-  "lat": 42.661442650720545,
-  "lon": -73.77233653786647
+  "latitude": 42.661443,
+  "longitude": -73.772337,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Pierce Hall",
-  "lat": 42.66361454635363,
-  "lon": -73.77973443953154
+  "latitude": 42.663615,
+  "longitude": -73.779734,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Alden Hall",
-  "lat": 42.663232016198094,
-  "lon": -73.7802922864985
+  "latitude": 42.663232,
+  "longitude": -73.780292,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Hawley Building",
-  "lat": 42.66036866527536,
-  "lon": -73.77068570261017
+  "latitude": 42.660369,
+  "longitude": -73.770686,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Page Hall",
-  "lat": 42.661436693633995,
-  "lon": -73.77199069437059
+  "latitude": 42.661437,
+  "longitude": -73.771991,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Draper Hall",
-  "lat": 42.660801925935125,
-  "lon": -73.77105079474958
+  "latitude": 42.660802,
+  "longitude": -73.771051,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Sayles Hall",
-  "lat": 42.664249547711655,
-  "lon": -73.78081845239757
+  "latitude": 42.66425,
+  "longitude": -73.780818,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "Main Laboratory Building - A Wing",
-  "lat": 42.628599671624244,
-  "lon": -73.74109361058221
+  "latitude": 42.6286,
+  "longitude": -73.741094,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "Central Power Plant",
-  "lat": 42.62909219282899,
-  "lon": -73.74006054867841
+  "latitude": 42.629092,
+  "longitude": -73.740061,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "B Wing",
-  "lat": 42.62869801788427,
-  "lon": -73.74061337248797
+  "latitude": 42.628698,
+  "longitude": -73.740613,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "Bruno Biotechnology Center",
-  "lat": 42.6288038339592,
-  "lon": -73.73965476322496
+  "latitude": 42.628804,
+  "longitude": -73.739655,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "D Wing",
-  "lat": 42.62807413771429,
-  "lon": -73.73987964951165
+  "latitude": 42.628074,
+  "longitude": -73.73988,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "C Wing",
-  "lat": 42.62808179449319,
-  "lon": -73.7411081171803
+  "latitude": 42.628082,
+  "longitude": -73.741108,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "DB Wing",
-  "lat": 42.62846626101454,
-  "lon": -73.74015698382085
+  "latitude": 42.628466,
+  "longitude": -73.740157,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "nan",
-  "lat": 42.627437031328434,
-  "lon": -73.74076283802664
+  "latitude": 42.627437,
+  "longitude": -73.740763,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "Edward S. and Frances Gilda George Education Center",
-  "lat": 42.626620555654185,
-  "lon": -73.74022060274147
+  "latitude": 42.626621,
+  "longitude": -73.740221,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "nan",
-  "lat": 42.62902874999999,
-  "lon": -73.74061114999998
+  "latitude": 42.629029,
+  "longitude": -73.740611,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "TACONIC IBS",
-  "lat": 42.627838984398586,
-  "lon": -73.73498953746694
+  "latitude": 42.627839,
+  "longitude": -73.73499,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "Cancer Research Center",
-  "lat": 42.62556274326646,
-  "lon": -73.73993789940864
+  "latitude": 42.625563,
+  "longitude": -73.739938,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "A3",
-  "lat": 42.68929318448503,
-  "lon": -73.828869595537
+  "latitude": 42.689293,
+  "longitude": -73.82887,
+  "type": "building",
+  "node id": "8900673351"
  },
  {
   "name": "C2",
-  "lat": 42.69041230548474,
-  "lon": -73.82938186008857
+  "latitude": 42.690412,
+  "longitude": -73.829382,
+  "type": "building",
+  "node id": "8900673374"
  },
  {
   "name": "D3",
-  "lat": 42.69106134828122,
-  "lon": -73.82996361575913
+  "latitude": 42.691061,
+  "longitude": -73.829964,
+  "type": "building",
+  "node id": "8900270336"
  },
  {
   "name": "nan",
-  "lat": 42.69122841126069,
-  "lon": -73.82734586221558
+  "latitude": 42.691228,
+  "longitude": -73.827346,
+  "type": "building",
+  "node id": "1319549741"
  },
  {
   "name": "G3",
-  "lat": 42.6906898,
-  "lon": -73.82736994999999
+  "latitude": 42.69069,
+  "longitude": -73.82737,
+  "type": "building",
+  "node id": "8900673334"
  },
  {
   "name": "G2",
-  "lat": 42.690365401601696,
-  "lon": -73.82736723415772
+  "latitude": 42.690365,
+  "longitude": -73.827367,
+  "type": "building",
+  "node id": "8900673334"
  },
  {
   "name": "C1",
-  "lat": 42.690153651611126,
-  "lon": -73.82894463416395
+  "latitude": 42.690154,
+  "longitude": -73.828945,
+  "type": "building",
+  "node id": "8900673375"
  },
  {
   "name": "E3",
-  "lat": 42.691726499999994,
-  "lon": -73.8292394
+  "latitude": 42.691726,
+  "longitude": -73.829239,
+  "type": "building",
+  "node id": "8900270337"
  },
  {
   "name": "E1",
-  "lat": 42.69142398446202,
-  "lon": -73.82912144559549
+  "latitude": 42.691424,
+  "longitude": -73.829121,
+  "type": "building",
+  "node id": "3397331532"
  },
  {
   "name": "C5",
-  "lat": 42.6905537,
-  "lon": -73.8285313
+  "latitude": 42.690554,
+  "longitude": -73.828531,
+  "type": "building",
+  "node id": "8900673340"
  },
  {
   "name": "D2",
-  "lat": 42.691039149999995,
-  "lon": -73.82952109999998
+  "latitude": 42.691039,
+  "longitude": -73.829521,
+  "type": "building",
+  "node id": "3397331535"
  },
  {
   "name": "A2",
-  "lat": 42.68962825,
-  "lon": -73.82889099999998
+  "latitude": 42.689628,
+  "longitude": -73.828891,
+  "type": "building",
+  "node id": "8900673351"
  },
  {
   "name": "C4",
-  "lat": 42.69080741711932,
-  "lon": -73.82897384328886
+  "latitude": 42.690807,
+  "longitude": -73.828974,
+  "type": "building",
+  "node id": "8900673339"
  },
  {
   "name": "A1",
-  "lat": 42.68937453590894,
-  "lon": -73.82843234342495
+  "latitude": 42.689375,
+  "longitude": -73.828432,
+  "type": "building",
+  "node id": "8900673352"
  },
  {
   "name": "E2",
-  "lat": 42.69174840992918,
-  "lon": -73.8287770888257
+  "latitude": 42.691748,
+  "longitude": -73.828777,
+  "type": "building",
+  "node id": "1197793572"
  },
  {
   "name": "B4",
-  "lat": 42.689716764503984,
-  "lon": -73.83013040730349
+  "latitude": 42.689717,
+  "longitude": -73.83013,
+  "type": "building",
+  "node id": "12264407014"
  },
  {
   "name": "B2",
-  "lat": 42.69011119911002,
-  "lon": -73.82973004841641
+  "latitude": 42.690111,
+  "longitude": -73.82973,
+  "type": "building",
+  "node id": "3397331561"
  },
  {
   "name": "B1",
-  "lat": 42.68985045000001,
-  "lon": -73.82928525
+  "latitude": 42.68985,
+  "longitude": -73.829285,
+  "type": "building",
+  "node id": "8900673346"
  },
  {
   "name": "G1",
-  "lat": 42.69061519999999,
-  "lon": -73.8277937
+  "latitude": 42.690615,
+  "longitude": -73.827794,
+  "type": "building",
+  "node id": "8900673333"
  },
  {
   "name": "F2",
-  "lat": 42.69084544850122,
-  "lon": -73.8282040659124
+  "latitude": 42.690845,
+  "longitude": -73.828204,
+  "type": "building",
+  "node id": "8900673328"
  },
  {
   "name": "D1",
-  "lat": 42.690753099999995,
-  "lon": -73.82986175
+  "latitude": 42.690753,
+  "longitude": -73.829862,
+  "type": "building",
+  "node id": "3397331530"
  },
  {
   "name": "B3",
-  "lat": 42.689783493294705,
-  "lon": -73.82971448671967
+  "latitude": 42.689783,
+  "longitude": -73.829714,
+  "type": "building",
+  "node id": "12264407016"
  },
  {
   "name": "C3",
-  "lat": 42.69048261061957,
-  "lon": -73.82896348935323
+  "latitude": 42.690483,
+  "longitude": -73.828963,
+  "type": "building",
+  "node id": "8900673340"
  },
  {
   "name": "B5",
-  "lat": 42.689478795226876,
-  "lon": -73.82970904206704
+  "latitude": 42.689479,
+  "longitude": -73.829709,
+  "type": "building",
+  "node id": "12264407018"
  },
  {
   "name": "F3",
-  "lat": 42.69118426562688,
-  "lon": -73.82821485416966
+  "latitude": 42.691184,
+  "longitude": -73.828215,
+  "type": "building",
+  "node id": "7904290537"
  },
  {
   "name": "F1",
-  "lat": 42.69108931586995,
-  "lon": -73.82864664109204
+  "latitude": 42.691089,
+  "longitude": -73.828647,
+  "type": "building",
+  "node id": "8900673327"
  },
  {
   "name": "Lazarus Hall",
-  "lat": 42.69007476398412,
-  "lon": -73.83504406094796
+  "latitude": 42.690075,
+  "longitude": -73.835044,
+  "type": "building",
+  "node id": "7916809338"
  },
  {
   "name": "Northrup Hall",
-  "lat": 42.690770591389224,
-  "lon": -73.83513710761807
+  "latitude": 42.690771,
+  "longitude": -73.835137,
+  "type": "building",
+  "node id": "7916809338"
  },
  {
   "name": "Truth Hall",
-  "lat": 42.689244750957194,
-  "lon": -73.83535693922387
+  "latitude": 42.689245,
+  "longitude": -73.835357,
+  "type": "building",
+  "node id": "1197793402"
  },
  {
   "name": "Stanton Hall",
-  "lat": 42.689722431337316,
-  "lon": -73.83621160436915
+  "latitude": 42.689722,
+  "longitude": -73.836212,
+  "type": "building",
+  "node id": "1197793402"
  },
  {
   "name": "Liberty Terrace Apartments",
-  "lat": 42.67869279437643,
-  "lon": -73.82055989304565
+  "latitude": 42.678693,
+  "longitude": -73.82056,
+  "type": "building",
+  "node id": "5981280699"
  },
  {
   "name": "Massry Center for Business",
-  "lat": 42.68756942906258,
-  "lon": -73.82364501582398
+  "latitude": 42.687569,
+  "longitude": -73.823645,
+  "type": "building",
+  "node id": "3397331582"
  },
  {
   "name": "Air Albany Apartments",
-  "lat": 42.67636245246718,
-  "lon": -73.82113155105793
+  "latitude": 42.676362,
+  "longitude": -73.821132,
+  "type": "building",
+  "node id": "1933030819"
  },
  {
   "name": "nan",
-  "lat": 42.6915773218437,
-  "lon": -73.82726495674002
+  "latitude": 42.691577,
+  "longitude": -73.827265,
+  "type": "building",
+  "node id": "7904290528"
  },
  {
   "name": "Building 511",
-  "lat": 42.68301171563393,
-  "lon": -73.8309621649088
+  "latitude": 42.683012,
+  "longitude": -73.830962,
+  "type": "building",
+  "node id": "1197713531"
  },
  {
   "name": "Track and Field Office",
-  "lat": 42.68244015288305,
-  "lon": -73.82631721680151
+  "latitude": 42.68244,
+  "longitude": -73.826317,
+  "type": "building",
+  "node id": "1197793566"
  },
  {
   "name": "Mechanical Repair Building",
-  "lat": 42.68139214136304,
-  "lon": -73.8220237217296
+  "latitude": 42.681392,
+  "longitude": -73.822024,
+  "type": "building",
+  "node id": "8179028557"
  },
  {
   "name": "Parking and Mass Transit",
-  "lat": 42.6884908,
-  "lon": -73.82938504999998
+  "latitude": 42.688491,
+  "longitude": -73.829385,
+  "type": "building",
+  "node id": "1197793698"
  },
  {
   "name": "Campus Center",
-  "lat": 42.68530027030159,
-  "lon": -73.82487951726553
+  "latitude": 42.6853,
+  "longitude": -73.82488,
+  "type": "building",
+  "node id": "4380086834"
  },
  {
   "name": "Physics",
-  "lat": 42.68527872955463,
-  "lon": -73.82381508115324
+  "latitude": 42.685279,
+  "longitude": -73.823815,
+  "type": "building",
+  "node id": "4380086840"
  },
  {
   "name": "Chemistry",
-  "lat": 42.68478555743887,
-  "lon": -73.82294991428628
+  "latitude": 42.684786,
+  "longitude": -73.82295,
+  "type": "building",
+  "node id": "5557320507"
  },
  {
   "name": "Biology",
-  "lat": 42.68495977399313,
-  "lon": -73.82190396073754
+  "latitude": 42.68496,
+  "longitude": -73.821904,
+  "type": "building",
+  "node id": "5557320508"
  },
  {
   "name": "Pine Bush",
-  "lat": 42.6857586866564,
-  "lon": -73.82191341089373
+  "latitude": 42.685759,
+  "longitude": -73.821913,
+  "type": "building",
+  "node id": "4380086841"
  },
  {
   "name": "Arts & Science",
-  "lat": 42.686972479965995,
-  "lon": -73.82399570613472
+  "latitude": 42.686972,
+  "longitude": -73.823996,
+  "type": "building",
+  "node id": "4380086852"
  },
  {
   "name": "Catskill",
-  "lat": 42.68752427337239,
-  "lon": -73.82494923504152
+  "latitude": 42.687524,
+  "longitude": -73.824949,
+  "type": "building",
+  "node id": "5851925968"
  },
  {
   "name": "Social Science",
-  "lat": 42.68737291382006,
-  "lon": -73.82601335045833
+  "latitude": 42.687373,
+  "longitude": -73.826013,
+  "type": "building",
+  "node id": "2152725274"
  },
  {
   "name": "Humanities",
-  "lat": 42.686563498814856,
-  "lon": -73.82600753902699
+  "latitude": 42.686563,
+  "longitude": -73.826008,
+  "type": "building",
+  "node id": "4380086847"
  },
  {
   "name": "Taconic",
-  "lat": 42.68604951156004,
-  "lon": -73.82513095054323
+  "latitude": 42.68605,
+  "longitude": -73.825131,
+  "type": "building",
+  "node id": "4380086853"
  },
  {
   "name": "Lecture Center",
-  "lat": 42.68617100830875,
-  "lon": -73.8239502378216
+  "latitude": 42.686171,
+  "longitude": -73.82395,
+  "type": "building",
+  "node id": "4380086837"
  },
  {
   "name": "Tom & Mary Casey Stadium",
-  "lat": 42.681058128643784,
-  "lon": -73.82783128214439
+  "latitude": 42.681058,
+  "longitude": -73.827831,
+  "type": "building",
+  "node id": "1197793921"
  },
  {
   "name": "nan",
-  "lat": 42.67906345,
-  "lon": -73.81950775
+  "latitude": 42.679063,
+  "longitude": -73.819508,
+  "type": "building",
+  "node id": "8900396718"
  },
  {
   "name": "nan",
-  "lat": 42.680471068542616,
-  "lon": -73.81883579533417
+  "latitude": 42.680471,
+  "longitude": -73.818836,
+  "type": "building",
+  "node id": "5851925956"
  },
  {
   "name": "Emerging Technology and Entrepreneurship Complex",
-  "lat": 42.680471398526045,
-  "lon": -73.81598883136722
+  "latitude": 42.680471,
+  "longitude": -73.815989,
+  "type": "building",
+  "node id": "9368899544"
  },
  {
   "name": "Campus Center West",
-  "lat": 42.68553789934086,
-  "lon": -73.82579464927908
+  "latitude": 42.685538,
+  "longitude": -73.825795,
+  "type": "building",
+  "node id": "1197793605"
  },
  {
   "name": "Campus Center East",
-  "lat": 42.684865903494114,
-  "lon": -73.82429404648552
+  "latitude": 42.684866,
+  "longitude": -73.824294,
+  "type": "building",
+  "node id": "1197793910"
  },
  {
   "name": "nan",
-  "lat": 42.68089601100003,
-  "lon": -73.82235859630842
+  "latitude": 42.680896,
+  "longitude": -73.822359,
+  "type": "building",
+  "node id": "13053721544"
  },
  {
   "name": "nan",
-  "lat": 42.68005811674477,
-  "lon": -73.81528119748496
+  "latitude": 42.680058,
+  "longitude": -73.815281,
+  "type": "building",
+  "node id": "9368899544"
  },
  {
   "name": "nan",
-  "lat": 42.68018365000001,
-  "lon": -73.81511145000002
+  "latitude": 42.680184,
+  "longitude": -73.815111,
+  "type": "building",
+  "node id": "9368899544"
  },
  {
   "name": "nan",
-  "lat": 42.67969595,
-  "lon": -73.8156928
+  "latitude": 42.679696,
+  "longitude": -73.815693,
+  "type": "building",
+  "node id": "9368899544"
  },
  {
   "name": "nan",
-  "lat": 42.68861119898703,
-  "lon": -73.829198033145
+  "latitude": 42.688611,
+  "longitude": -73.829198,
+  "type": "building",
+  "node id": "8499708474"
  },
  {
   "name": "nan",
-  "lat": 42.68700638337042,
-  "lon": -73.83255425552959
+  "latitude": 42.687006,
+  "longitude": -73.832554,
+  "type": "building",
+  "node id": "8900509309"
  },
  {
   "name": "nan",
-  "lat": 42.68045598524952,
-  "lon": -73.82477881965808
+  "latitude": 42.680456,
+  "longitude": -73.824779,
+  "type": "building",
+  "node id": "1197793257"
  },
  {
   "name": "nan",
-  "lat": 42.660319752492605,
-  "lon": -73.77201068034665
+  "latitude": 42.66032,
+  "longitude": -73.772011,
+  "type": "building",
+  "node id": "2864276253"
  },
  {
   "name": "nan",
-  "lat": 42.660024699999994,
-  "lon": -73.77184944999999
+  "latitude": 42.660025,
+  "longitude": -73.771849,
+  "type": "building",
+  "node id": "1933030789"
  },
  {
   "name": "nan",
-  "lat": 42.65922119999999,
-  "lon": -73.77246795
+  "latitude": 42.659221,
+  "longitude": -73.772468,
+  "type": "building",
+  "node id": "1933030789"
  }
 ]
