@@ -34,8 +34,7 @@ The development team will handle updates to the maps and UI. As a result, users 
 10. Go to the addition settings, scroll down, and change the RAM from 2 GB to 4 GB
 11. Click “Finish” and start the device by clicking the triangle icon pointing to the right side, right next to the three-dots icon in Device Manager, on the right side.
 12. Active the device and let it initialize.
-13. Please make sure you have set the location data on UAlbany campus
-    ![image1](instruction_image/Screenshot 2026-05-08 at 12.29.05.png)
+13. Please make sure you have set the location data on UAlbany campus, you can access that panel by the three dots on the right panel.
 14. Visit https://github.com/kennyH02/UANav
 15. Click on the green button labeled “Code”
 16. On “Local”, make sure you are in HTTPS and Clone using the web URL.
