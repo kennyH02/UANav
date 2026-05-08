@@ -10,6 +10,8 @@ print("Downloading street data for the University at Albany")
 # download openstreetmap data
 
 G = ox.graph_from_place(place, network_type="walk")
+
+# G = ox.project_graph(G)
 # tag in OSM for places
 tags = {"building": True}
 places = ox.features_from_place(place, tags)
@@ -17,12 +19,15 @@ places = ox.features_from_place(place, tags)
 
 nodes=[]
 edges=[]
+place_nodes = []
+
 # loops through all N / E, takes lat and long from OSM
 for node, data in G.nodes(data=True):
     nodes.append({
         "id": str(node),
-        "latitue": data["y"],
-        "longitude": data["x"],
+        "latitude": round(data["y"], 6),
+        "longitude": round(data["x"], 6),
+        "type": "outdoor_node"
     })
 
 for s, t, data in G.edges(data=True):
@@ -30,18 +35,27 @@ for s, t, data in G.edges(data=True):
             "source": str(s), 
             "target": str(t),
             "length": data.get("length",1),
+            "type": "outdoor_edge"
     })
         
-place_nodes = []
 # itterate thru rows of data
 for idex, row in places.iterrows():
     if "name" in row and row["name"]:
+
+        # OSM makes center point for N
+        lat= row.geometry.centroid.y
+        lon = row.geometry.centroid.x
+
+        nearest_node = ox.distance.nearest_nodes(G, lon, lat)
+        
         place_nodes.append({
             "name": str(row["name"]),
-            # OSM makes center point for N
-            "lat": row.geometry.centroid.y,
-            "lon": row.geometry.centroid.x,
+            "latitude": round(lat, 6),
+            "longitude": round(lon, 6),
+            "type": "building",
+            "node id": str(nearest_node),
           })
+        
 
 # JSON FILES
 with open("node.json", "w") as f:
@@ -63,7 +77,7 @@ latitue ={}
 longitude ={}
 
 for node in nodes:
-    latitue[node["id"]] = node["latitue"]
+    latitue[node["id"]] = node["latitude"]
     longitude[node["id"]] = node["longitude"]
 
 for edge in edges:
