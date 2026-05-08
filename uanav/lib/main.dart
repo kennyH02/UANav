@@ -1,11 +1,17 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:flutter_map_tile_caching/flutter_map_tile_caching.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-
 import 'widgets/auth_gate.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // Initialize tile caching for offline map support
+  if (!kIsWeb) {
+    await FMTCObjectBoxBackend().initialise();
+    await FMTCStore('osmStore').manage.create();
+  }
 
   await dotenv.load(fileName: '.env');
 

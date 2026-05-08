@@ -423,6 +423,11 @@ class _AuthScreenState extends State<AuthScreen> {
     if (message.contains('User already registered')) {
       return 'An account already exists for this email';
     }
+    if (message.contains('AuthRetryableFetchException') ||
+        message.contains('SocketException') ||
+        message.contains('Failed host lookup')) {
+      return 'Can\'t reach the login server. Check your internet connection and try again.';
+    }
     if (message.length > 120) {
       return 'Something went wrong. Please try again.';
     }
